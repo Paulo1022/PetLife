@@ -190,11 +190,16 @@ footer nav a {
 }
 
 footer p {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 footer p a {
-    color: #263138;
+    background-color: #ff725e;
+    padding: 4px 8px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+
 }
 
 #copyright {
